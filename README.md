@@ -6,6 +6,6 @@ Mientras más servidores activos esten, mayor sera la cantidad de solicitudes a 
 
 (*solicitudes = proxys * 25*)
 
-Si tenemos 100 proxys activos la cantidad de mensajes enviados en menos de 1 minuto y con una conexion estable a red seria de 2,500 mensajes.
+Si tenemos 100 proxys activos la cantidad de mensajes enviados en menos de 1 minuto y con una conexion estable a red seria de 2,500 mensajes en menos de 1 minuto.
 
 ![spam-ngl drawio](https://github.com/user-attachments/assets/ce81ad2d-5d58-4c8a-a0de-7dab649cd9ea)
