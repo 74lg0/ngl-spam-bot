@@ -60,7 +60,6 @@ def send_single_message(prox, username, message, counter):
                     print(f'[{formatted_time}] [Msg] Sent: {counter[0]}')
 
         except Exception as e:
-            print(f'[ERRNO] {prox}')
             time.sleep(10)
 
 def send_message(username, message):
